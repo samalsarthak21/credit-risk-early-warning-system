@@ -43,19 +43,24 @@ Refer to the notebook for instructions on setting up email alerts locally.
 ---
 ## 5. Key Visualizations
 
-- **Volatility Spike Signals** 
+- **Volatility Spike Signals**
+  
 ![Volatility Spike Signals](plots/volatility_spike_heatmap.png)  
 
-- **Beta Drift Alerts** 
+- **Beta Drift Alerts**
+  
 ![Beta Drift Alerts](plots/beta_drift_heatmap.png) 
  
-- **Drawdown Monitoring** 
+- **Drawdown Monitoring**
+  
 ![Drawdown Monitoring](plots/drawdown_monitoring.png) 
  
-- **Rolling Z-Scores** 
+- **Rolling Z-Scores**
+  
 ![Rolling Z-Scores](plots/rolling_zscore.png)  
 
-- **ML-Based Anomaly Detection** 
+- **ML-Based Anomaly Detection**
+  
 ![ML-Based Anomaly Detection](plots/ml_anomaly_heatmap.png)
 
 ## Repository Structure
